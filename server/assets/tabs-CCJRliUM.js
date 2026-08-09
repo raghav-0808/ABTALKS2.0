@@ -24,3 +24,5 @@ var TabsContent = React.forwardRef(({ className, ...props }, ref) => /* @__PURE_
 TabsContent.displayName = TabsPrimitive.Content.displayName;
 //#endregion
 export { TabsTrigger as i, TabsContent as n, TabsList as r, Tabs as t };
+
+//# sourceMappingURL=tabs-CCJRliUM.js.map

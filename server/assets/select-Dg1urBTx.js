@@ -69,3 +69,5 @@ var SelectSeparator = React.forwardRef(({ className, ...props }, ref) => /* @__P
 SelectSeparator.displayName = SelectPrimitive.Separator.displayName;
 //#endregion
 export { SelectValue as a, SelectTrigger as i, SelectContent as n, SelectItem as r, Select as t };
+
+//# sourceMappingURL=select-Dg1urBTx.js.map

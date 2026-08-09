@@ -1,1 +1,2 @@
 import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{n as t}from"./Match-CACNWw_4.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};
+//# sourceMappingURL=route-DTs8s4e-.js.map

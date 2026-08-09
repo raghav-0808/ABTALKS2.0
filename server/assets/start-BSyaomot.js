@@ -53,3 +53,5 @@ var startInstance = createStart(() => ({
 }));
 //#endregion
 export { startInstance };
+
+//# sourceMappingURL=start-BSyaomot.js.map

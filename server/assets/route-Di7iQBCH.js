@@ -4,3 +4,5 @@ import { jsx } from "react/jsx-runtime";
 var SplitComponent = () => /* @__PURE__ */ jsx(Outlet, {});
 //#endregion
 export { SplitComponent as component };
+
+//# sourceMappingURL=route-Di7iQBCH.js.map

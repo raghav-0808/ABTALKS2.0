@@ -71,3 +71,5 @@ var supabase = new Proxy({}, { get(_, prop, receiver) {
 } });
 //#endregion
 export { supabase as t };
+
+//# sourceMappingURL=client-CoEqkHDN.js.map

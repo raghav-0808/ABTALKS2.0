@@ -82,3 +82,5 @@ async function getFailureResponse(opts, ctx) {
 }
 //#endregion
 export { createMiddleware as n, createCsrfMiddleware as t };
+
+//# sourceMappingURL=createCsrfMiddleware-B2To0gPJ.js.map

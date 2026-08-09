@@ -40,3 +40,5 @@ var CardFooter = React.forwardRef(({ className, ...props }, ref) => /* @__PURE__
 CardFooter.displayName = "CardFooter";
 //#endregion
 export { Card as t };
+
+//# sourceMappingURL=card-CzXpCsbD.js.map

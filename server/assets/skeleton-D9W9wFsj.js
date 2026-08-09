@@ -9,3 +9,5 @@ function Skeleton({ className, ...props }) {
 }
 //#endregion
 export { Skeleton as t };
+
+//# sourceMappingURL=skeleton-D9W9wFsj.js.map

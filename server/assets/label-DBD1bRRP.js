@@ -13,3 +13,5 @@ var Label = React.forwardRef(({ className, ...props }, ref) => /* @__PURE__ */ j
 Label.displayName = LabelPrimitive.Root.displayName;
 //#endregion
 export { Label as t };
+
+//# sourceMappingURL=label-DBD1bRRP.js.map

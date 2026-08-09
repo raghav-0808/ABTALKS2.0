@@ -1,1 +1,2 @@
 import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{r as t}from"./States-BU-xQxSe.js";var n=e(),r=()=>(0,n.jsx)(`div`,{className:`mx-auto max-w-3xl px-4 py-20`,children:(0,n.jsx)(t,{message:`We couldn't load this event.`})});export{r as errorComponent};
+//# sourceMappingURL=_slug-Br4A1rmJ.js.map
