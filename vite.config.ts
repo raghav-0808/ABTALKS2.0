@@ -17,4 +17,7 @@ export default defineConfig({
     TanStackRouterVite(),
     react(),
   ],
+  build: {
+    sourcemap: true,
+  },
 });
