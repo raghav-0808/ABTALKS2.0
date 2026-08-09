@@ -5,6 +5,9 @@ import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
+  // When deploying to GitHub Pages under a repository subpath, set `base`
+  // to the repo path so generated asset URLs include the correct prefix.
+  base: '/ABTALKS2.0/',
   resolve: {
     tsconfigPaths: true,
   },
